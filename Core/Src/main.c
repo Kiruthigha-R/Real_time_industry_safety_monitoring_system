@@ -91,7 +91,11 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-if(1);
+if(1)
+{
+	gpio(init);
+}
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
